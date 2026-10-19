@@ -2,6 +2,8 @@
 
 Spinning circles that add up to a square wave — and anything else you draw.
 
+**Play with it:** https://fourier-series-lac.vercel.app
+
 I kept seeing posts on Instagram of circles drawing waves, and got hooked on how
 smooth spinning circles can add up to sharp corners. So I built my own place to
 play with it. The one that started it was a reel by
