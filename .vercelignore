@@ -1,0 +1,6 @@
+# Never upload local secrets or scratch files with a deploy.
+.env*
+.superpowers
+.next
+node_modules
+*.tsbuildinfo
