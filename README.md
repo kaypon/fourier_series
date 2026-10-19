@@ -24,7 +24,6 @@ play with it. The one that started it was a reel by
   the URL always holds the current wave.
 - **What is this?** A plain-language explanation with ▶ buttons that drive the
   circles, and the real maths folded away "for the nerds".
-- **/april** — the whole idea explained like you're five, made for phones.
 
 ## Running it
 

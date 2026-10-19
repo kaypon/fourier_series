@@ -1,7 +1,6 @@
 "use client";
 
 import { createContext, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
-import Link from "next/link";
 import { WaveCanvas } from "@/components/WaveCanvas";
 import { FormulaBar } from "@/components/FormulaBar";
 import { Spectrum } from "@/components/Spectrum";
@@ -223,9 +222,6 @@ export function Studio({ initial, explainer }: StudioProps) {
             ))}
           </div>
           <nav className="studio-nav">
-            <Link href="/april" className="textlink">
-              my name is april
-            </Link>
             <button
               ref={whatRef}
               type="button"

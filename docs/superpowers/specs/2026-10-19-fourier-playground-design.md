@@ -101,7 +101,8 @@ Pure math in `lib/fourier.ts`, unit-tested with `node --test`.
 - **Spectrum:** toggleable strip of bars (one per circle, placed by speed,
   height = size, below the line when negative); drag a bar to edit.
 - **Link preview image** (`app/opengraph-image.tsx`) in the site's look.
-- **/april** ("MY NAME IS APRIL" button): the whole idea explained like
+- **/april** (unlinked: reachable only by typing the URL; the "MY NAME IS
+  APRIL" button was removed at the user's request): the whole idea explained like
   you're five, built phone-first — one column, a live tap-to-pause picture
   per step, thumb-sized buttons, slowed-down wheels. Covers: dot on a wheel →
   watching only its height → the string and pencil drawing the line → that's
@@ -133,8 +134,7 @@ Pure math in `lib/fourier.ts`, unit-tested with `node --test`.
   circle as `size·e^i(speed·x + angle)` (exponent raised; negative speeds spin
   clockwise), editable and folding like the wave formula.
 - **Decluttered top bar** (user picked "split by job"): the top bar holds only
-  `[← van]`, the title, WAVES / PICTURES tabs, MY NAME IS APRIL (text link)
-  and WHAT IS THIS?. The tools moved to a row just above the stage: shapes
+  `[← van]`, the title, WAVES / PICTURES tabs and WHAT IS THIS?. The tools moved to a row just above the stage: shapes
   and DRAW as boxed buttons on the left, pause · listen · spectrum · share as
   quieter underline-when-on text on the right.
 
